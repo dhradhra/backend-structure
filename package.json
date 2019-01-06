@@ -1,0 +1,22 @@
+{
+  "name": "lootvpn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "aws-sdk": "^2.383.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-joi-validation": "^0.3.0",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "mysql": "^2.16.0",
+    "underscore": "^1.9.1"
+  }
+}
